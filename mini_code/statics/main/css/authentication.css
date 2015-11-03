@@ -1,0 +1,236 @@
+@charset "UTF-8";
+.box{
+    height: auto;
+    margin-top: 36px;
+    margin-bottom: 30px;
+}
+.box_p1{
+    overflow: hidden;
+    padding-bottom: 80px;
+}
+.box_tent{
+    width: 940px;
+    margin:0 auto;
+    height: auto;
+}
+.box_tent .certification{
+    width: 100%;
+    border-bottom: 1px solid #999999;
+    color: #333;
+    padding-bottom: 20px;
+    overflow: hidden;
+    height: auto;
+}
+.certification .certification_p1{
+    font-size: 18px;
+    float: left;
+    font-family: '微软雅黑';
+    color: #333;
+}
+.certification .certification_p2{
+    font-size: 14px;
+    float: right;
+    color: #666666;
+    padding-top:6px;
+}
+.box_tent .certification_img{
+    margin-top: 30px;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+}
+.certification_img h2{
+    font-size: 14px;
+    color: #333;
+}
+.certification_im1{
+    width: 307px;
+    height: 228px;
+    overflow: hidden;
+    background: #cccccc;
+    margin-top: 28px;
+}
+.certification_im1 img{
+    border-radius: 8px;
+    margin: 20px auto;
+}
+.certification_im2{
+    width: 305px;
+    height: 226px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    margin-top: 28px;
+    /*margin-left: 30px;*/
+}
+
+.Upload .upload_info .upload_img_center{
+    display:table-cell;
+    text-align:center;
+    vertical-align:middle;
+    width: 307px;
+    height: 228px;
+}
+.Upload .upload_info .certification_im1 img{
+    border-radius: 8px;
+    display: inline;
+}
+.Upload .upload_info .certification_im2 img{
+    border-radius: 8px;
+    display: inline;
+}
+
+.certification_im3{
+    width: 236px;
+    height: 226px;
+    overflow: hidden;
+    margin-top: 28px;
+    margin-left: 30px;
+}
+.certification_im3 h3{
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 20px;
+}
+.certification_im3 p{
+    font-size: 12px;
+    color: #999999;
+    line-height: 24px;
+}
+.certification_img  .text{
+    width: 700px;
+    height: 28px;
+    line-height: 28px;
+    overflow: hidden;
+    font-size: 14px;
+    color: #333;
+    padding-top: 10px;
+}
+.certification_img  .box_l1{
+    padding-top: 40px;
+}
+.certification_img .text .text_span{
+    width: 110px;
+    height: 30px;
+    display: inline-block;
+    line-height: 30px;
+    float: left;
+    text-align: right;
+    margin-right: 10px;
+    margin-left: -10px;
+}
+.certification_img .text .sect_2{
+    width: 148px;
+    height: 26px;
+    border: 1px solid #ccc;
+    line-height: 26px;
+    float: left;
+    font-size: 14px;
+    color: #666;
+    margin-right: 8px;
+    _margin-right:8px;
+}
+.certification_img .text .input1{
+    float: left;
+    width: 390px;
+    border: 1px solid #cccccc;
+    line-height: 26px;
+    font-size: 12px;
+    height: 26px;
+    color: #999999;
+    padding-left: 4px;
+}
+.Upload{
+    width: 100%;
+    border-top:  1px #999999 dashed;
+    margin-top: 40px;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+}
+.Upload .btn2{
+    width: 110px;
+    height: 40px;
+    color: #fff;
+    background: #ff6666;
+    font-size: 12px;
+    line-height: 30px;
+    border: none;
+    margin-top: 30px;
+}
+.Upload .Upload_im3 .btn3{
+    /*width: 130px;
+    height: auto;
+    float: left;
+    overflow: hidden;*/
+}
+.Upload .btn3{
+    width: 110px;
+    height: 40px;
+    margin-right: 40px;
+    color: #fff;
+    background: #ff6666;
+    font-size: 12px;
+    line-height: 30px;
+    border: none;
+    float: left;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.Upload .btn4{
+    width: 110px;
+    height: 40px;
+    color: #fff;
+    background: #999999;
+    font-size: 12px;
+    line-height: 30px;
+    border: none;
+    float: left;
+    cursor: pointer;
+}
+
+.conten{
+    height: 163px;
+    overflow: hidden;
+    background: url(../backend/images/icon_bj.png) repeat-x;
+}
+.conten_box{
+    height: auto;
+    overflow: hidden;
+}
+.conten_box .conten_bb{
+    width: 780px;
+    margin:0 auto;
+    text-align: left;
+}
+.conten_bb .conten_d1{
+    margin-top: 40px;
+}
+.conten_bb .conten_p1{
+    width: 780px;
+    color: #333;
+    height: auto;
+    padding-bottom: 50px;
+    position: relative;
+    font-size: 16px;
+    font-family: "微软雅黑";
+}
+.conten_bb .conten_p1 .conten_p2{
+    position: absolute;
+    left: -10px;
+    top: 15px;
+}
+.conten_bb .conten_p1 .conten_p3{
+    position: absolute;
+    left: 216px;
+    top: 15px;
+}
+.conten_bb .conten_p1 .conten_p4{
+    position: absolute;
+    left: 450px;
+    top: 15px;
+}
+.conten_bb .conten_p1 .conten_p5{
+    position: absolute;
+    left: 676px;
+    top: 15px;
+}
